@@ -3,7 +3,7 @@ package passwordRyan;
 import java.util.Scanner;
 
 public class PasswordRyan {
-
+//This is a test to see how commit 2 works!
 	//First Method - Password Check
 	public static void PasswordCheck(boolean lengthCheck, 
 			boolean correctDigits, boolean alphaNumericCheck,
